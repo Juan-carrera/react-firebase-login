@@ -11,7 +11,7 @@ app-login-firebase.netlify.app
 * React
 * Firebase
 
-## Recursos utilizados👀
+## Recursos utilizados
 
 ```
 https://tailwindcomponents.com/components
@@ -21,6 +21,17 @@ https://blog.logrocket.com/firebase-cloud-storage-firebase-v9-react/
 https://www.youtube.com/watch?v=pJ8LykeBDo4
 https://www.youtube.com/watch?v=A5yjN73Aj7s
 https://www.youtube.com/watch?v=H_vEJt5Id_I
+```
+
+## Por mejorar👍
+
+```
+*IMPLEMENTAR TOASTIFY JS
+*UI
+*MANEJO DE ERRORES
+*DESCARGA DE IMAGENES DESDE FIREBASE
+*MOSTRAR MULTIPLES IMAGENES DESDE FIREBASE
+
 ```
 
 
