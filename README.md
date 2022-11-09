@@ -17,18 +17,13 @@ app-login-firebase.netlify.app
 https://tailwindcomponents.com/components
 https://firebase.google.com/docs/auth/web/password-auth
 https://firebase.google.com/docs/storage/web/start
+https://blog.logrocket.com/firebase-cloud-storage-firebase-v9-react/
 ```
 
-```
-https://expressjs.com/es/guide/routing.html
-```
 
-```
-https://dzone.com/articles/deploy-your-node-express-app-on-heroku-in-8-easy-s
-```
 
 ## Autor ✒️
 
-* **Juan antonio carrera contreras** 
+* **juan carrera** 
 
 
